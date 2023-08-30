@@ -1,0 +1,11 @@
+{
+    "database": {
+        "dbHost": "localhost",
+        "dbUser": "root",
+        "dbPassword": "",
+        "dbName": "aio"
+    },
+    "api": {
+        "port": 3000
+    }
+}
